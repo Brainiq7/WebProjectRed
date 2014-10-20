@@ -52,6 +52,5 @@ Take a look and if you like take inspiration from  the following projects.<br>
 NB
 ===
 
-Each individual will be placed in a team.
-Notice of this team grouping will be made through githubs invitation system.
-Grouping will be done randomly if members registerd individually else they'd be maintained as registered. 
+Though wireframes have been provided,feel free to go crazy doing your thing. However stick to the basic idea provided. 
+There was the initial thought that , we allow new user registration on the site, but there are no known/available API's to link our existing databse of users i.e in the forum and any new one we form.[the API's in question are only available to paying communities on Google Apps for organisations.] However if you have any idea as to how you can implement a user registration, Kindly do so.
